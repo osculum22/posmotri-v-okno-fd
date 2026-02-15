@@ -28,6 +28,4 @@
 
 Склонируйте репозиторий или скачайте архив с проектом:
 
-```bash
-git clone https://github.com/ваш-аккаунт/посмотри-в-окно.git
-cd посмотри-в-окно
+https://github.com/osculum22/posmotri-v-okno-fd.git
