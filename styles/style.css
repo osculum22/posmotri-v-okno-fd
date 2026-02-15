@@ -184,7 +184,6 @@ ol {
 }
 
 .result__video {
-  position: absolute;
   object-fit: cover;
   overflow: hidden;
   display: block;
@@ -233,7 +232,7 @@ ol {
 .search-form__checkbox-list {
   display: flex;
   flex-direction: row;
-  gap: 40px;
+  gap: 15px;
 }
 
 .search-form__fieldset {
@@ -285,11 +284,6 @@ ol {
 .search-form__label:has(:focus-visible) {
   outline: 1px solid #fff;
   outline-offset: 1px;
-}
-
-.search-form__checkbox-list {
-  display: flex;
-  gap: 15px;
 }
 
 .search-form__pseudo-checkbox {
